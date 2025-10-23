@@ -1,7 +1,7 @@
 # 🧪 Scripts de prueba para rendimiento de APIs REST
 
 Este repositorio contiene dos scripts en Node.js diseñados para evaluar el rendimiento de un endpoint HTTP. Ambos realizan 1000 peticiones GET al mismo endpoint, pero cada uno mide aspectos distintos del comportamiento del servidor.
- **Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
+
 ###  
 **Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
 
