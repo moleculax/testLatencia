@@ -71,6 +71,10 @@ npm install axios
 node test-latencia.js
 node test-throughput.js
 
+Para usar en el script sustituye:
+const URL = 'http://tudominio/tupoint/elvalor';
+por tu dominio o ip
+
 
 
 Autor
