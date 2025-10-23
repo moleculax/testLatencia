@@ -1,7 +1,24 @@
 # 🧪 Scripts de prueba para rendimiento de APIs REST
 
 Este repositorio contiene dos scripts en Node.js diseñados para evaluar el rendimiento de un endpoint HTTP. Ambos realizan 1000 peticiones GET al mismo endpoint, pero cada uno mide aspectos distintos del comportamiento del servidor.
+ **Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
+###  
+**Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
 
+---
+
+### 🌐 Ecosistema Moleculax
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)
+[![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]()
+[![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()
+[![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com)
+[![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax)
+[![Moleculax App 🚀](https://img.shields.io/badge/Moleculax%20App-%23000000.svg?logo=vercel&logoColor=white)](https://moleculaxapp.vercel.app/)
+
+
+##
 ---
 
 ## 📄 `test-latencia.js`
