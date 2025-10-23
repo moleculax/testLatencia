@@ -2,8 +2,8 @@
 const axios = require('axios');
 const { performance } = require('perf_hooks');
 
-const URL = 'http://localhost:8080/neurocode/api/posteos-preguntas/50/2';
-
+//const URL = 'http://localhost:8080/neurocode/api/posteos-preguntas/50/2';
+const URL = 'http://tudominio/tupoint/elvalor';
 
 
 
